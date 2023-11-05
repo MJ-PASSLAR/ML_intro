@@ -1,0 +1,15 @@
+in the name of GOD
+HW_1
+
+1-	With DALLE generate an avatar for your profile on social media that presents your personality and life.
+
+2-	Forces below changes to MNIST and explain the changes.
+  2-1- add one dense layer
+  2-2- add two dense layer
+  2-3- train with more epochs
+  2-4- train with less epochs
+
+3-  talking with chatGPT about your family ( for about 20 conversations) then ask about the questions:
+  3-1- what can I buy for my father's birthday?
+  3-2- whats my mother's personality
+  3-3- what can I do in my free time?
