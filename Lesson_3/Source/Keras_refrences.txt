@@ -1,0 +1,5 @@
+Activation functions : https://keras.io/api/layers/activations/
+
+Optimizers : https://keras.io/api/optimizers/
+
+
