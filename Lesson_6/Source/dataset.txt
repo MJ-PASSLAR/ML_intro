@@ -1,1 +1,2 @@
 link to download IMDB dataset : https://abrehamrahi.ir/o/public/bq8lMe4Y/
+link to download Glove data set : https://abrehamrahi.ir/o/public/zkree9mF/
